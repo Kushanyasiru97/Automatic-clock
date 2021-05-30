@@ -3,7 +3,7 @@ from tkinter.ttk import*
 from time import strftime
 from tkinter import Label, Tk
 
-#======= Configuring window =========
+#======= Configuring window ========
 window = Tk()
 window.title("Digital Clock")
 window.geometry("600x250")
